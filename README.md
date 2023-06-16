@@ -31,7 +31,7 @@ comfort of your homes, without even moving an inch away from your TV.<br />
   7) Dexter Library
 
 ## Screenshots:
- <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/2b19c571-73d8-48e6-902a-67b38aff4b0e" width="280" height="580"><br /> 
+ <img src="https://https://github.com/Abhioneb/Scrappy/blob/master/img1.png" width="280" height="580"><br /> 
  <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/651e8a6b-46c6-4ef4-8e51-c339fd2e13df" width="280" height="580"><br />
  <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/31d328de-8bca-4643-a406-da84b5ace311" width="280" height="580"><br /> 
  <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/ae7c303a-4f94-410d-8413-1dd3d6b98034" width="280" height="580"> <br />
