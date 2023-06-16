@@ -21,9 +21,6 @@ comfort of your homes, without even moving an inch away from your TV.<br />
 -Buyer can request the seller to buy the scrap by the chat feature.<br />
 -It suggest the scrap availability based on his nearby location.
 
-## Demo Video Link:
-  <a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/c2Kxozciptg</a>
-
 ## Technology Stack:
   1) Java
   2) FireBase Authentication
