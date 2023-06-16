@@ -45,8 +45,9 @@ comfort of your homes, without even moving an inch away from your TV.<br />
 ## Contributors:
 Team Name: The Mavericks
 
-* [Nishu Sharma](https://github.com/NishuSharma18)
 * [Abhinav Pandey](https://github.com/Abhioneb)
+* [Nishu Sharma](https://github.com/NishuSharma18)
+
 
 
 ### Made at:
