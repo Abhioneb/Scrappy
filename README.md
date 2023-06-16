@@ -27,12 +27,10 @@ comfort of your homes, without even moving an inch away from your TV.<br />
   3) FireBase Realtime DataBase
   4) SQLite DataBase
   5) Razorpay Payment 
-  6) Google Maps SDK
-  7) Dexter Library
+  6) Dexter Library
 
-## Screenshots:
- <img src="https://https://github.com/Abhioneb/Scrappy/blob/master/img1.png" width="280" height="580"><br /> 
- <img src="https://https://github.com/Abhioneb/Scrappy/blob/master/img2.png" width="280" height="580"><br />
+## Demo Video
+ <a href="">https://www.youtube.com/shorts/tO2ZMXwW0VE</a>
 
 ## Contributors:
 Team Name: The Mavericks
