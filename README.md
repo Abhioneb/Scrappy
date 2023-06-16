@@ -33,14 +33,6 @@ comfort of your homes, without even moving an inch away from your TV.<br />
 ## Screenshots:
  <img src="https://https://github.com/Abhioneb/Scrappy/blob/master/img1.png" width="280" height="580"><br /> 
  <img src="https://https://github.com/Abhioneb/Scrappy/blob/master/img2.png" width="280" height="580"><br />
- <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/31d328de-8bca-4643-a406-da84b5ace311" width="280" height="580"><br /> 
- <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/ae7c303a-4f94-410d-8413-1dd3d6b98034" width="280" height="580"> <br />
- <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/94641201-9f25-4df7-8e1a-50f580c8b52d" width="280" height="580"><br /> 
- <img src="https://github.com/NishuSharma18/Scrappy/assets/93839989/3f19c1e1-085a-42ab-bb4a-dd0720c7fe53" width="280" height="580"><br />  
-
-
-
-
 
 ## Contributors:
 Team Name: The Mavericks
