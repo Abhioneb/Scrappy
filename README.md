@@ -15,7 +15,7 @@ But what if I told you that you can earn money from garbage you produce?
 Sounds too good to be true, right? Well, that's exactly what our app is going to do.<br />
 SCRAPPY App is a LIVE 24x7 market place to buy and sell scrap from the 
 comfort of your homes, without even moving an inch away from your TV.<br />
--The app is designed to facilitate the interaction between the scrapp Dealer and the actual person with valuable scrapp.<br />
+-The app is designed to facilitate the interaction between the scrap Dealer and the actual person with valuable scrap.<br />
 -User can easily add the scrap with image and quantity.<br/> 
 -Our app solves the problem of not getting the actual worth price of Scrap.<br />
 -Buyer can request the seller to buy the scrap by the chat feature.<br />
